@@ -1,0 +1,4 @@
+Link collab:
+https://colab.research.google.com/drive/1sEaoMwnqMVr1QViuQv2fx3YVdC7X5uZd?usp=sharing
+Link github:
+https://github.com/iller15/Deteccion-de-rostros.git
